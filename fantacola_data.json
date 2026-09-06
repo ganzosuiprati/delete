@@ -141,7 +141,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Atta",
+          "nome": "Brescianini",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -151,7 +151,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Ndour",
+          "nome": "Oulai",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -171,7 +171,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Jimenez A.",
+          "nome": "Joao Mario",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -183,17 +183,12 @@
       ],
       "formazione_trasferta": [
         {
-          "nome": "Simeone",
+          "nome": "Adams C.",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
           "nome": "Vlasic",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Adams C.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -209,6 +204,11 @@
         },
         {
           "nome": "Mandragora",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Gineitis",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -260,12 +260,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Zielinski",
+          "nome": "Sucic P.",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Calhanoglu",
+          "nome": "Zielinski",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -394,7 +394,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Molina N.",
+          "nome": "Lulli",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -421,7 +421,7 @@
       ],
       "formazione_trasferta": [
         {
-          "nome": "Rowe",
+          "nome": "Elmas",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -451,7 +451,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Bernasconi",
+          "nome": "Kolasinac",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -461,7 +461,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Kristensen T.",
+          "nome": "Kossounou",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -580,7 +580,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Bella-Kotchap",
+          "nome": "Moreno M.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -627,7 +627,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Bernabè",
+          "nome": "Fabbian",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -664,7 +664,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Ngonge",
+          "nome": "Mota",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -704,7 +704,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Ziolkowski",
+          "nome": "Kouadio",
           "percentuale": 50,
           "ruolo": "A"
         },
