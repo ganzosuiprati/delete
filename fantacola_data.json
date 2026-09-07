@@ -518,12 +518,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Monterisi",
+          "nome": "Calvani",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Calvani",
+          "nome": "Cittadini",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -545,7 +545,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Yeboah J.",
+          "nome": "Rrahmani Al.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -555,7 +555,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Basic",
+          "nome": "Sohm",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -570,7 +570,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Mazzocchi",
+          "nome": "Hainaut",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -580,7 +580,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Moreno M.",
+          "nome": "Bella-Kotchap",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -659,17 +659,17 @@
       ],
       "formazione_trasferta": [
         {
-          "nome": "Cutrone",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
           "nome": "Mota",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Colpani",
+          "nome": "Robinson J.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Forson O.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -709,7 +709,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Tornqvist",
+          "nome": "Thiam",
           "percentuale": 50,
           "ruolo": "A"
         }
@@ -736,12 +736,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Pobega",
+          "nome": "Ferguson",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Ferguson",
+          "nome": "Pobega",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -751,7 +751,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Miranda J.",
+          "nome": "Alhassane",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -766,7 +766,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Zortea",
+          "nome": "Holm",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -783,17 +783,17 @@
           "ruolo": "A"
         },
         {
-          "nome": "Esposito Se.",
+          "nome": "Bowie",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Berardi",
+          "nome": "Volpato",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Bakola",
+          "nome": "Lipani",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -803,7 +803,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Thorstvedt",
+          "nome": "Adzic",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -823,7 +823,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Van Der Brempt",
+          "nome": "Cinquegrano",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -845,7 +845,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Boga",
+          "nome": "Alajbegovic",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -902,7 +902,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Cissè A.",
+          "nome": "Saelemaekers",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -912,7 +912,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Bartesaghi",
+          "nome": "Estupinan",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -927,7 +927,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Chukwueze",
+          "nome": "Moreira",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -959,7 +959,7 @@
       "squadra_trasferta": "LECCE",
       "formazione_casa": [
         {
-          "nome": "Kevin Carlos",
+          "nome": "Mendy P.",
           "percentuale": 50,
           "ruolo": "A"
         },
