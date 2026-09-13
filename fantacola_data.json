@@ -198,12 +198,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Fini",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Calò",
+          "nome": "Ghedjemis",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -213,17 +208,22 @@
           "ruolo": "A"
         },
         {
+          "nome": "Calò",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
           "nome": "Bracaglia",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Calvani",
+          "nome": "Cittadini",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Monterisi",
+          "nome": "Calvani",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -250,12 +250,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Pinamonti",
+          "nome": "Noslin",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Isaksen",
+          "nome": "Cancellieri",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -285,7 +285,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Doekhi",
+          "nome": "Sutalo J.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -312,7 +312,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Rabiot",
+          "nome": "Loftus-Cheek",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -322,7 +322,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Musah",
+          "nome": "Rabiot",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -394,7 +394,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Bernasconi",
+          "nome": "Kolasinac",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -461,7 +461,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Mina",
+          "nome": "Deiola",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -498,12 +498,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Ilic",
+          "nome": "Ngom",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Ngom",
+          "nome": "Ilic",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -540,7 +540,7 @@
       ],
       "formazione_trasferta": [
         {
-          "nome": "Varela G.",
+          "nome": "Cutrone",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -602,7 +602,7 @@
       "squadra_trasferta": "BOLOGNA",
       "formazione_casa": [
         {
-          "nome": "Neres",
+          "nome": "Lang",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -627,7 +627,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Zambo Anguissa",
+          "nome": "Gilmour",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -783,12 +783,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Gonzalez N.",
+          "nome": "Alajbegovic",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Woltemade",
+          "nome": "Gonzalez N.",
           "percentuale": 50,
           "ruolo": "A"
         },
