@@ -493,12 +493,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Pierotti",
+          "nome": "N'Dri",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Ngom",
+          "nome": "Maleh",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -523,7 +523,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Gaspar K.",
+          "nome": "Siebert",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -540,7 +540,7 @@
       ],
       "formazione_trasferta": [
         {
-          "nome": "Cutrone",
+          "nome": "Varela G.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -602,7 +602,7 @@
       "squadra_trasferta": "BOLOGNA",
       "formazione_casa": [
         {
-          "nome": "Lang",
+          "nome": "Vergara",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -617,7 +617,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Vergara",
+          "nome": "De Bruyne",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -674,7 +674,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Pobega",
+          "nome": "Amondarain",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -684,7 +684,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Odgaard",
+          "nome": "Pobega",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -709,7 +709,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Skorupski",
+          "nome": "Pessina Mas.",
           "percentuale": 50,
           "ruolo": "A"
         }
@@ -726,7 +726,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Bowie",
+          "nome": "Esposito Se.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -736,7 +736,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Adzic",
+          "nome": "Lipani",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -969,11 +969,6 @@
           "ruolo": "A"
         },
         {
-          "nome": "Adams C.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
           "nome": "Cacciamani",
           "percentuale": 50,
           "ruolo": "A"
@@ -989,7 +984,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Fortini",
+          "nome": "Gineitis",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Belghali",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -999,7 +999,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Ismajli",
+          "nome": "Coco",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -1026,7 +1026,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Soulè",
+          "nome": "Dybala",
           "percentuale": 50,
           "ruolo": "A"
         },
