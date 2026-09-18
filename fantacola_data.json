@@ -17,12 +17,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Colpani",
+          "nome": "Cutrone",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Bakoune",
+          "nome": "Mangas",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -57,7 +57,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Thiam",
+          "nome": "Tornqvist",
           "percentuale": 50,
           "ruolo": "A"
         }
@@ -126,12 +126,12 @@
       "squadra_trasferta": "TORINO",
       "formazione_casa": [
         {
-          "nome": "Cambiaghi",
+          "nome": "Piccoli",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Piccoli",
+          "nome": "Cambiaghi",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -141,7 +141,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Odgaard",
+          "nome": "Miranda J.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -156,7 +156,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Miranda J.",
+          "nome": "Holm",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -171,7 +171,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Holm",
+          "nome": "Helland",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -493,7 +493,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Sagrado",
+          "nome": "Haps",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -518,7 +518,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Haps",
+          "nome": "Juan Jesus",
           "percentuale": 50,
           "ruolo": "A"
         },
