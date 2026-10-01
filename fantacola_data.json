@@ -188,11 +188,6 @@
           "ruolo": "A"
         },
         {
-          "nome": "Lontani",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
           "nome": "Tourè E.",
           "percentuale": 50,
           "ruolo": "A"
@@ -209,6 +204,11 @@
         },
         {
           "nome": "Sierro",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Bernabè",
           "percentuale": 50,
           "ruolo": "A"
         },
