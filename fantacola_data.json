@@ -188,6 +188,11 @@
           "ruolo": "A"
         },
         {
+          "nome": "Lontani",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
           "nome": "Tourè E.",
           "percentuale": 50,
           "ruolo": "A"
@@ -199,11 +204,6 @@
         },
         {
           "nome": "Keita M.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Sierro",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -245,7 +245,7 @@
       "squadra_trasferta": "FROSINONE",
       "formazione_casa": [
         {
-          "nome": "Lang",
+          "nome": "Neres",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -607,7 +607,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Stulic",
+          "nome": "Geubbels",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -783,7 +783,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Cissè A.",
+          "nome": "Moreira",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -793,7 +793,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Moreira",
+          "nome": "Bartesaghi",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -1051,7 +1051,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Moreno M.",
+          "nome": "Halhal",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -1061,7 +1061,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Schingtienne",
+          "nome": "Moreno M.",
           "percentuale": 50,
           "ruolo": "A"
         },
