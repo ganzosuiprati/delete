@@ -27,12 +27,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Amorim",
+          "nome": "Frendrup",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Frendrup",
+          "nome": "Messias",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -94,7 +94,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Viery",
+          "nome": "Valdepenas",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -126,12 +126,12 @@
       "squadra_trasferta": "PARMA",
       "formazione_casa": [
         {
-          "nome": "Bonny",
+          "nome": "Thuram",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Thuram",
+          "nome": "Martinez L.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -141,7 +141,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Mkhitaryan",
+          "nome": "Zielinski",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -166,17 +166,17 @@
           "ruolo": "A"
         },
         {
-          "nome": "Akanji",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
           "nome": "Bisseck",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Provedel",
+          "nome": "Pavard",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Martinez Jo.",
           "percentuale": 50,
           "ruolo": "A"
         }
@@ -245,7 +245,7 @@
       "squadra_trasferta": "FROSINONE",
       "formazione_casa": [
         {
-          "nome": "Neres",
+          "nome": "Lang",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -255,7 +255,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Politano",
+          "nome": "Neres",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -426,7 +426,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Pellegrini Lo.",
+          "nome": "Mora",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -602,17 +602,17 @@
       "squadra_trasferta": "BOLOGNA",
       "formazione_casa": [
         {
+          "nome": "Pierotti",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
           "nome": "Monteiro J.",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Geubbels",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Pierotti",
+          "nome": "N'Dri",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -1056,7 +1056,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Bella-Kotchap",
+          "nome": "Schingtienne",
           "percentuale": 50,
           "ruolo": "A"
         },
