@@ -545,12 +545,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Robinson J.",
+          "nome": "Zeballos",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Cutrone",
+          "nome": "Ngonge",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -602,17 +602,17 @@
       "squadra_trasferta": "BOLOGNA",
       "formazione_casa": [
         {
+          "nome": "Fatah",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Esteban",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
           "nome": "Pierotti",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Geubbels",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Monteiro J.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -679,7 +679,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Moro N.",
+          "nome": "Ferguson",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -694,11 +694,6 @@
           "ruolo": "A"
         },
         {
-          "nome": "Theate",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
           "nome": "Heggem",
           "percentuale": 50,
           "ruolo": "A"
@@ -709,7 +704,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Skorupski",
+          "nome": "Darmian",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Pessina Mas.",
           "percentuale": 50,
           "ruolo": "A"
         }
@@ -746,7 +746,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Thorstvedt",
+          "nome": "Bakola",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -766,7 +766,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Cinquegrano",
+          "nome": "Van Der Brempt",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -793,7 +793,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Modric",
+          "nome": "Rabiot",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -840,7 +840,7 @@
       "squadra_trasferta": "JUVENTUS",
       "formazione_casa": [
         {
-          "nome": "Nzola",
+          "nome": "Mendy P.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -850,7 +850,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Fazzini",
+          "nome": "Massolin",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -907,12 +907,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Conceicao",
+          "nome": "McKennie",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "McKennie",
+          "nome": "Conceicao",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -932,7 +932,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Kelly L.",
+          "nome": "Lucumì",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -989,7 +989,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Bernasconi",
+          "nome": "Kolasinac",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -1170,12 +1170,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Solet",
+          "nome": "Alaba",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Kabasele",
+          "nome": "Solet",
           "percentuale": 50,
           "ruolo": "A"
         },
