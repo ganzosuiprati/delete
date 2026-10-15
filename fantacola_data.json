@@ -109,7 +109,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Van Der Brempt",
+          "nome": "Cinquegrano",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -141,12 +141,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Sohm",
+          "nome": "Basic",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Basic",
+          "nome": "Sohm",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -183,22 +183,22 @@
       ],
       "formazione_trasferta": [
         {
-          "nome": "Lang",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
           "nome": "Hojlund",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Politano",
+          "nome": "Lang",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
           "nome": "De Bruyne",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Spinazzola",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -213,7 +213,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Spinazzola",
+          "nome": "Politano",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -280,12 +280,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Heggem",
+          "nome": "Theate",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Casale",
+          "nome": "Heggem",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -307,7 +307,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Martinez L.",
+          "nome": "Esposito F.P.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -369,7 +369,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Dybala",
+          "nome": "Mora",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -384,7 +384,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Konè M.",
+          "nome": "Pisilli",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -674,7 +674,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Diao",
+          "nome": "Rodriguez Je.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -1016,12 +1016,12 @@
       ],
       "formazione_trasferta": [
         {
-          "nome": "Massolin",
+          "nome": "Mendy P.",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Mendy P.",
+          "nome": "Massolin",
           "percentuale": 50,
           "ruolo": "A"
         },
