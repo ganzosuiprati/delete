@@ -42,7 +42,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Cittadini",
+          "nome": "Monterisi",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -89,7 +89,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Bakola",
+          "nome": "Thorstvedt",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -136,7 +136,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Sagrado",
+          "nome": "Haps",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -183,7 +183,7 @@
       ],
       "formazione_trasferta": [
         {
-          "nome": "Hojlund",
+          "nome": "Lucca",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -193,7 +193,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "De Bruyne",
+          "nome": "McTominay",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -208,7 +208,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "McTominay",
+          "nome": "Gilmour",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -332,7 +332,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Spence",
+          "nome": "Luis Henrique",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -394,12 +394,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Molina N.",
+          "nome": "Lulli",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Hermoso",
+          "nome": "Balerdi",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -426,12 +426,17 @@
           "ruolo": "A"
         },
         {
+          "nome": "El Shaarawy",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
           "nome": "Messias",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "El Shaarawy",
+          "nome": "Ellertsson",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -446,7 +451,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Ellertsson",
+          "nome": "Ehizibue",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -461,12 +466,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Otoa",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Ehizibue",
+          "nome": "Marcandalli",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -808,7 +808,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Zappacosta",
+          "nome": "Bernasconi",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -855,7 +855,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Conceicao",
+          "nome": "Zhegrova",
           "percentuale": 50,
           "ruolo": "A"
         },
