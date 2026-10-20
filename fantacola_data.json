@@ -2,62 +2,300 @@
   "updated_at": "Aggiornato in tempo reale",
   "partite": [
     {
-      "match": "FROSINONE vs SASSUOLO",
-      "squadra_casa": "FROSINONE",
+      "match": "TORINO vs MONZA",
+      "squadra_casa": "TORINO",
+      "squadra_trasferta": "MONZA",
+      "formazione_casa": [
+        {
+          "nome": "Simeone",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Adams C.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Vlasic",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Cacciamani",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Braganca",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Mandragora",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Belghali",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Coco",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Ismajli",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Comuzzo",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Perri",
+          "percentuale": 50,
+          "ruolo": "A"
+        }
+      ],
+      "formazione_trasferta": [
+        {
+          "nome": "Varela G.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Robinson J.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Mota",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Mangas",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Foe Ondoa",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Akinsanmiro",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Birindelli",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Carboni A.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Lucchesi",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Kouadio",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Tornqvist",
+          "percentuale": 50,
+          "ruolo": "A"
+        }
+      ]
+    },
+    {
+      "match": "CAGLIARI vs BOLOGNA",
+      "squadra_casa": "CAGLIARI",
+      "squadra_trasferta": "BOLOGNA",
+      "formazione_casa": [
+        {
+          "nome": "Mendy P.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Maldini",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Fadera",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Romano",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Winks",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Adopo",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Obert",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Rodriguez Ju.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Mina",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Zè Pedro",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Caprile",
+          "percentuale": 50,
+          "ruolo": "A"
+        }
+      ],
+      "formazione_trasferta": [
+        {
+          "nome": "Enem",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Cambiaghi",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Bernardeschi",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Miranda J.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Ferguson",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Pobega",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Zortea",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Theate",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Casale",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Darmian",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Skorupski",
+          "percentuale": 50,
+          "ruolo": "A"
+        }
+      ]
+    },
+    {
+      "match": "COMO vs SASSUOLO",
+      "squadra_casa": "COMO",
       "squadra_trasferta": "SASSUOLO",
       "formazione_casa": [
         {
-          "nome": "Raimondo",
+          "nome": "Douvikas",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Kvernadze",
+          "nome": "Baturina",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Schmid",
+          "nome": "Paz N.",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Ghedjemis",
+          "nome": "Liberali",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Masini",
+          "nome": "Perrone",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Calò",
+          "nome": "Da Cunha",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Bracaglia",
+          "nome": "Valle",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Monterisi",
+          "nome": "Ramon",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Cittadini",
+          "nome": "Kempf",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Oyono A.",
+          "nome": "Couto",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Palmisani",
+          "nome": "Butez",
           "percentuale": 50,
           "ruolo": "A"
         }
@@ -121,79 +359,22 @@
       ]
     },
     {
-      "match": "VENEZIA vs NAPOLI",
-      "squadra_casa": "VENEZIA",
-      "squadra_trasferta": "NAPOLI",
+      "match": "NAPOLI vs ROMA",
+      "squadra_casa": "NAPOLI",
+      "squadra_trasferta": "ROMA",
       "formazione_casa": [
         {
-          "nome": "Adams A.",
+          "nome": "Hojlund",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Yeboah J.",
+          "nome": "Lang",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Haps",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Basic",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Sohm",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Perez K.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Hainaut",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Halhal",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Juan Jesus",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Moreno M.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Stankovic F.",
-          "percentuale": 50,
-          "ruolo": "A"
-        }
-      ],
-      "formazione_trasferta": [
-        {
-          "nome": "Lucca",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Giovane",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "McTominay",
+          "nome": "De Bruyne",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -208,12 +389,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Gilmour",
+          "nome": "McTominay",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Di Lorenzo",
+          "nome": "Politano",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -228,7 +409,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Beukema",
+          "nome": "Di Lorenzo",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -237,134 +418,10 @@
           "percentuale": 50,
           "ruolo": "A"
         }
-      ]
-    },
-    {
-      "match": "BOLOGNA vs INTER",
-      "squadra_casa": "BOLOGNA",
-      "squadra_trasferta": "INTER",
-      "formazione_casa": [
-        {
-          "nome": "Piccoli",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Cambiaghi",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Bernardeschi",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Miranda J.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Ferguson",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Pobega",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Zortea",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Theate",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Casale",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Darmian",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Skorupski",
-          "percentuale": 50,
-          "ruolo": "A"
-        }
       ],
       "formazione_trasferta": [
         {
-          "nome": "Thuram",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Esposito F.P.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Dimarco",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Sucic P.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Zielinski",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Barella",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Luis Henrique",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Bastoni",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Akanji",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Bisseck",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Martinez Jo.",
-          "percentuale": 50,
-          "ruolo": "A"
-        }
-      ]
-    },
-    {
-      "match": "ROMA vs GENOA",
-      "squadra_casa": "ROMA",
-      "squadra_trasferta": "GENOA",
-      "formazione_casa": [
-        {
-          "nome": "Castro S.",
+          "nome": "Malen",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -379,7 +436,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Rensch",
+          "nome": "Wesley",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -394,12 +451,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Lulli",
+          "nome": "Molina N.",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Koulierakis",
+          "nome": "Hermoso",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -409,7 +466,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Balerdi",
+          "nome": "Mancini",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -418,484 +475,13 @@
           "percentuale": 50,
           "ruolo": "A"
         }
-      ],
-      "formazione_trasferta": [
-        {
-          "nome": "Osmajic",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "El Shaarawy",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Messias",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Puczka",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Wiafe",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Frendrup",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Ellertsson",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Vasquez",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Ostigard",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Marcandalli",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Bijlow",
-          "percentuale": 50,
-          "ruolo": "A"
-        }
       ]
     },
     {
-      "match": "UDINESE vs LECCE",
-      "squadra_casa": "UDINESE",
-      "squadra_trasferta": "LECCE",
+      "match": "LAZIO vs PARMA",
+      "squadra_casa": "LAZIO",
+      "squadra_trasferta": "PARMA",
       "formazione_casa": [
-        {
-          "nome": "Davis K.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Chakvetadze",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Ekkelenkamp",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Kamara H.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Zarraga",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Karlstrom",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Vojvoda",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Ebosse",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Alaba",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Solet",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Okoye",
-          "percentuale": 50,
-          "ruolo": "A"
-        }
-      ],
-      "formazione_trasferta": [
-        {
-          "nome": "Fatah",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Geubbels",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "N'Dri",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Maleh",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Ngom",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Coulibaly L.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Gallo",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Tiago Gabriel",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Gaspar K.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Veiga D.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Falcone",
-          "percentuale": 50,
-          "ruolo": "A"
-        }
-      ]
-    },
-    {
-      "match": "FIORENTINA vs COMO",
-      "squadra_casa": "FIORENTINA",
-      "squadra_trasferta": "COMO",
-      "formazione_casa": [
-        {
-          "nome": "Pellegrino M.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Njie",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Goncalves P.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Mastantuono",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Fagioli",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Ndour",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Viery",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Pongracic",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Dragusin",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Jimenez A.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "De Gea",
-          "percentuale": 50,
-          "ruolo": "A"
-        }
-      ],
-      "formazione_trasferta": [
-        {
-          "nome": "Douvikas",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Caqueret",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Paz N.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Liberali",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Milla",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Da Cunha",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Valle",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Kempf",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Chalobah T.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Smolcic I.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Butez",
-          "percentuale": 50,
-          "ruolo": "A"
-        }
-      ]
-    },
-    {
-      "match": "MILAN vs ATALANTA",
-      "squadra_casa": "MILAN",
-      "squadra_trasferta": "ATALANTA",
-      "formazione_casa": [
-        {
-          "nome": "Ramos G.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Pulisic",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Rabiot",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Moreira",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Modric",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Musah",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Chukwueze",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Pavlovic",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "De Winter",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Gila",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Maignan",
-          "percentuale": 50,
-          "ruolo": "A"
-        }
-      ],
-      "formazione_trasferta": [
-        {
-          "nome": "Krstovic",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Rowe",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Samardzic",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "De Ketelaere",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Ederson D.S.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Pasalic",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Bernasconi",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Kolasinac",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Kristensen T.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Bellanova",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Carnesecchi",
-          "percentuale": 50,
-          "ruolo": "A"
-        }
-      ]
-    },
-    {
-      "match": "JUVENTUS vs LAZIO",
-      "squadra_casa": "JUVENTUS",
-      "squadra_trasferta": "LAZIO",
-      "formazione_casa": [
-        {
-          "nome": "Kolo Muani",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Alajbegovic",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Gonzalez N.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "McKennie",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Sarr P.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Douglas Luiz",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Celik",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Lucumì",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Bremer",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Kalulu",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Vicario",
-          "percentuale": 50,
-          "ruolo": "A"
-        }
-      ],
-      "formazione_trasferta": [
         {
           "nome": "Zaccagni",
           "percentuale": 50,
@@ -951,132 +537,8 @@
           "percentuale": 50,
           "ruolo": "A"
         }
-      ]
-    },
-    {
-      "match": "MONZA vs CAGLIARI",
-      "squadra_casa": "MONZA",
-      "squadra_trasferta": "CAGLIARI",
-      "formazione_casa": [
-        {
-          "nome": "Varela G.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Mota",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Ngonge",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Mangas",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Folorunsho",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Akinsanmiro",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Birindelli",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Carboni A.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Goglichidze",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Kouadio",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Tornqvist",
-          "percentuale": 50,
-          "ruolo": "A"
-        }
       ],
       "formazione_trasferta": [
-        {
-          "nome": "Mendy P.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Massolin",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Maldini",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Romano",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Winks",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Adopo",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Obert",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Rodriguez Ju.",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Mina",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Zè Pedro",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Caprile",
-          "percentuale": 50,
-          "ruolo": "A"
-        }
-      ]
-    },
-    {
-      "match": "PARMA vs TORINO",
-      "squadra_casa": "PARMA",
-      "squadra_trasferta": "TORINO",
-      "formazione_casa": [
         {
           "nome": "Romero D.",
           "percentuale": 50,
@@ -1093,17 +555,17 @@
           "ruolo": "A"
         },
         {
+          "nome": "Bernabè",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
           "nome": "Keita M.",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Sierro",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Bernabè",
+          "nome": "Fabbian",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -1132,60 +594,598 @@
           "percentuale": 50,
           "ruolo": "A"
         }
+      ]
+    },
+    {
+      "match": "INTER vs FIORENTINA",
+      "squadra_casa": "INTER",
+      "squadra_trasferta": "FIORENTINA",
+      "formazione_casa": [
+        {
+          "nome": "Thuram",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Esposito F.P.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Dimarco",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Zielinski",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Calhanoglu",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Barella",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Diouf",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Bastoni",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Akanji",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Bisseck",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Martinez Jo.",
+          "percentuale": 50,
+          "ruolo": "A"
+        }
       ],
       "formazione_trasferta": [
         {
-          "nome": "Simeone",
+          "nome": "Pellegrino M.",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Adams C.",
+          "nome": "Njie",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Vlasic",
+          "nome": "Mastantuono",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Cacciamani",
+          "nome": "Oulai",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Braganca",
+          "nome": "Fagioli",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Mandragora",
+          "nome": "Ndour",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Belghali",
+          "nome": "Viery",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Rodriguez R.",
+          "nome": "Pongracic",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Coco",
+          "nome": "Dragusin",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Comuzzo",
+          "nome": "Jimenez A.",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Perri",
+          "nome": "De Gea",
+          "percentuale": 50,
+          "ruolo": "A"
+        }
+      ]
+    },
+    {
+      "match": "ATALANTA vs FROSINONE",
+      "squadra_casa": "ATALANTA",
+      "squadra_trasferta": "FROSINONE",
+      "formazione_casa": [
+        {
+          "nome": "Krstovic",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Rowe",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "De Ketelaere",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Elmas",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Ederson D.S.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Gaetano",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Bernasconi",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Obric",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Kristensen T.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Bellanova",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Carnesecchi",
+          "percentuale": 50,
+          "ruolo": "A"
+        }
+      ],
+      "formazione_trasferta": [
+        {
+          "nome": "Raimondo",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Kvernadze",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Schmid",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Ghedjemis",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Masini",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Calò",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Bracaglia",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Cittadini",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Calvani",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Oyono A.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Palmisani",
+          "percentuale": 50,
+          "ruolo": "A"
+        }
+      ]
+    },
+    {
+      "match": "GENOA vs VENEZIA",
+      "squadra_casa": "GENOA",
+      "squadra_trasferta": "VENEZIA",
+      "formazione_casa": [
+        {
+          "nome": "Osmajic",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "El Shaarawy",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Messias",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Ellertsson",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Traorè Hj.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Frendrup",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Ehizibue",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Vasquez",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Ostigard",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Marcandalli",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Bijlow",
+          "percentuale": 50,
+          "ruolo": "A"
+        }
+      ],
+      "formazione_trasferta": [
+        {
+          "nome": "Adams A.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Yeboah J.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Haps",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Basic",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Sohm",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Perez K.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Hainaut",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Halhal",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Juan Jesus",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Moreno M.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Stankovic F.",
+          "percentuale": 50,
+          "ruolo": "A"
+        }
+      ]
+    },
+    {
+      "match": "LECCE vs JUVENTUS",
+      "squadra_casa": "LECCE",
+      "squadra_trasferta": "JUVENTUS",
+      "formazione_casa": [
+        {
+          "nome": "Fatah",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Geubbels",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "N'Dri",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Maleh",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Ngom",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Kaba",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Gallo",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Tiago Gabriel",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Gaspar K.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Veiga D.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Falcone",
+          "percentuale": 50,
+          "ruolo": "A"
+        }
+      ],
+      "formazione_trasferta": [
+        {
+          "nome": "Kolo Muani",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Woltemade",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Celik",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Sarr P.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Douglas Luiz",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "McKennie",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Gonzalez N.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Lucumì",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Bremer",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Kalulu",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Vicario",
+          "percentuale": 50,
+          "ruolo": "A"
+        }
+      ]
+    },
+    {
+      "match": "UDINESE vs MILAN",
+      "squadra_casa": "UDINESE",
+      "squadra_trasferta": "MILAN",
+      "formazione_casa": [
+        {
+          "nome": "Davis K.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Chakvetadze",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Ekkelenkamp",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Kamara H.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Piotrowski",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Karlstrom",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Vojvoda",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Ebosse",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Solet",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Palma",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Okoye",
+          "percentuale": 50,
+          "ruolo": "A"
+        }
+      ],
+      "formazione_trasferta": [
+        {
+          "nome": "Ramos G.",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Pulisic",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Rabiot",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Moreira",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Modric",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Musah",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Chukwueze",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Pavlovic",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "De Winter",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Gila",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Maignan",
           "percentuale": 50,
           "ruolo": "A"
         }
