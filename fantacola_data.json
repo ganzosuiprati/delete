@@ -27,7 +27,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Matic",
+          "nome": "Lipani",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -57,7 +57,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Muric",
+          "nome": "Turati",
           "percentuale": 50,
           "ruolo": "A"
         }
@@ -126,12 +126,12 @@
       "squadra_trasferta": "CAGLIARI",
       "formazione_casa": [
         {
-          "nome": "Malen",
+          "nome": "Castro S.",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Mora",
+          "nome": "Cristante",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -151,7 +151,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Cristante",
+          "nome": "De Roon",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -161,7 +161,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Balerdi",
+          "nome": "Koulierakis",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -171,7 +171,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Ghilardi",
+          "nome": "Mancini",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -183,12 +183,7 @@
       ],
       "formazione_trasferta": [
         {
-          "nome": "Kevin Carlos",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Maldini",
+          "nome": "Nzola",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -198,12 +193,17 @@
           "ruolo": "A"
         },
         {
-          "nome": "Romano",
+          "nome": "Obert",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Gagliardini",
+          "nome": "Deiola",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Romano",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -213,7 +213,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Obert",
+          "nome": "Sugawara",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -265,7 +265,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Gineitis",
+          "nome": "Braganca",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -307,7 +307,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Baturina",
+          "nome": "Caqueret",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -317,7 +317,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Caqueret",
+          "nome": "Da Cunha",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -327,7 +327,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Da Cunha",
+          "nome": "Perrone",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -352,7 +352,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Butez",
+          "nome": "Sanchez Ro.",
           "percentuale": 50,
           "ruolo": "A"
         }
@@ -441,7 +441,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Ferguson",
+          "nome": "Moro N.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -545,7 +545,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Chakvetadze",
+          "nome": "Zaniolo",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -694,17 +694,17 @@
           "ruolo": "A"
         },
         {
+          "nome": "Carlos Augusto",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
           "nome": "Bastoni",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
           "nome": "Bisseck",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Carlos Augusto",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -907,7 +907,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Olivera",
+          "nome": "Politano",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -927,7 +927,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Politano",
+          "nome": "Olivera",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -942,7 +942,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Di Lorenzo",
+          "nome": "Marianucci",
           "percentuale": 50,
           "ruolo": "A"
         },
