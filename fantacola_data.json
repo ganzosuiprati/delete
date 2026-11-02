@@ -518,7 +518,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Cittadini",
+          "nome": "Monterisi",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -528,7 +528,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Oyono A.",
+          "nome": "Tchato",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -550,7 +550,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Patterson",
+          "nome": "Aboukhlal",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -560,7 +560,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Fitz-Jim",
+          "nome": "Gineitis",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -659,7 +659,7 @@
       ],
       "formazione_trasferta": [
         {
-          "nome": "Mendy P.",
+          "nome": "Nzola",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -679,12 +679,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Winks",
+          "nome": "Adopo",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Adopo",
+          "nome": "Fadera",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -721,7 +721,7 @@
       "squadra_trasferta": "GENOA",
       "formazione_casa": [
         {
-          "nome": "Fatah",
+          "nome": "Monteiro J.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -731,7 +731,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Monteiro J.",
+          "nome": "N'Dri",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -746,7 +746,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Kaba",
+          "nome": "Gorter",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -783,17 +783,12 @@
           "ruolo": "A"
         },
         {
+          "nome": "Messias",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
           "nome": "El Shaarawy",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Baldanzi",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Mitaj",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -803,12 +798,17 @@
           "ruolo": "A"
         },
         {
+          "nome": "Wiafe",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
           "nome": "Frendrup",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Ehizibue",
+          "nome": "Ellertsson",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -850,12 +850,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "McKennie",
+          "nome": "Alajbegovic",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Sarr P.",
+          "nome": "Cabal",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -870,7 +870,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Kalulu",
+          "nome": "McKennie",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -885,7 +885,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Gatti",
+          "nome": "Kalulu",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -902,7 +902,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Hojlund",
+          "nome": "Lucca",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -937,7 +937,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Rrahmani",
+          "nome": "Marianucci",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -1160,7 +1160,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Bernabè",
+          "nome": "Fabbian",
           "percentuale": 50,
           "ruolo": "A"
         },
