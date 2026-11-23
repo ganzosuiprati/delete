@@ -870,12 +870,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Diawara S.",
+          "nome": "Bartesaghi",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Pavlovic",
+          "nome": "Diawara S.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -897,11 +897,6 @@
       ],
       "formazione_trasferta": [
         {
-          "nome": "Birligea",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
           "nome": "Kvernadze",
           "percentuale": 50,
           "ruolo": "A"
@@ -917,6 +912,11 @@
           "ruolo": "A"
         },
         {
+          "nome": "Tchato",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
           "nome": "Calò",
           "percentuale": 50,
           "ruolo": "A"
@@ -927,7 +927,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Tchato",
+          "nome": "Oyono A.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -937,12 +937,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Calvani",
+          "nome": "Cittadini",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Oyono A.",
+          "nome": "Calvani",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -964,7 +964,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Rowe",
+          "nome": "Zalewski",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -1009,7 +1009,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Carnesecchi",
+          "nome": "Sportiello",
           "percentuale": 50,
           "ruolo": "A"
         }
@@ -1051,17 +1051,17 @@
           "ruolo": "A"
         },
         {
+          "nome": "Carlos Augusto",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
           "nome": "Bastoni",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Akanji",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Bisseck",
+          "nome": "Pavard",
           "percentuale": 50,
           "ruolo": "A"
         },
