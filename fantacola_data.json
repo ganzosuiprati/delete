@@ -855,17 +855,17 @@
           "ruolo": "A"
         },
         {
+          "nome": "Liberali",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
           "nome": "Da Cunha",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
           "nome": "Perrone",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
-          "nome": "Milla",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -979,7 +979,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Kaba",
+          "nome": "Ngom",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -1150,12 +1150,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Modric",
+          "nome": "Rabiot",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Rabiot",
+          "nome": "Jashari",
           "percentuale": 50,
           "ruolo": "A"
         },
