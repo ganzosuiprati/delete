@@ -260,7 +260,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Vlasic",
+          "nome": "Gineitis",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -270,12 +270,12 @@
           "ruolo": "A"
         },
         {
-          "nome": "Gineitis",
+          "nome": "Vlasic",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
-          "nome": "Belghali",
+          "nome": "Patterson",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -317,7 +317,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Taylor K.",
+          "nome": "Dele-Bashiru",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -337,7 +337,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Doekhi",
+          "nome": "Provstgaard",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -369,7 +369,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Thuram",
+          "nome": "Esposito F.P.",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -461,7 +461,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Ostigard",
+          "nome": "Otoa",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -498,7 +498,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Piotrowski",
+          "nome": "Chakvetadze",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -518,7 +518,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Solet",
+          "nome": "Alaba",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -528,7 +528,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Palma",
+          "nome": "Solet",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -679,7 +679,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "De Bruyne",
+          "nome": "Gilmour",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -788,7 +788,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Mota",
+          "nome": "Pessina",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -803,7 +803,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Pessina",
+          "nome": "Foe Ondoa",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -912,7 +912,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Cabal",
+          "nome": "Celik",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -942,7 +942,7 @@
           "ruolo": "A"
         },
         {
-          "nome": "Celik",
+          "nome": "Kalulu",
           "percentuale": 50,
           "ruolo": "A"
         },
@@ -1088,17 +1088,17 @@
           "ruolo": "A"
         },
         {
-          "nome": "Fazzini",
-          "percentuale": 50,
-          "ruolo": "A"
-        },
-        {
           "nome": "Romano",
           "percentuale": 50,
           "ruolo": "A"
         },
         {
           "nome": "Deiola",
+          "percentuale": 50,
+          "ruolo": "A"
+        },
+        {
+          "nome": "Winks",
           "percentuale": 50,
           "ruolo": "A"
         },
